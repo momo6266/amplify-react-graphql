@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+// eslint-disable-next-line import/no-unresolved
 import "@aws-amplify/ui-react/styles.css";
 import {
   withAuthenticator,
