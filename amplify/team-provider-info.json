@@ -19,7 +19,10 @@
         "amplifyreactgraphql": {}
       },
       "storage": {
-        "DCS": {}
+        "amplifyreactgraphqla493a968": {
+          "bucketName": "smartbabybed",
+          "region": "ap-southeast-2"
+        }
       }
     }
   }
